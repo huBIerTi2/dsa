@@ -4,3 +4,8 @@ It leverages the heuristic that, <img src="https://render.githubusercontent.com/
 
 This method gives around 2% of error with `2kB` (**!**) of data needed. (For <img src="https://render.githubusercontent.com/render/math?math=|S| < 10^9"></img>)
 
+
+# Implementations
+
+-   [OCaml](../ocaml/hll.ml)
+-   [Rust](../rust/hll.rs)
